@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](HelloWorld.png)
+![](helloWorld.png)
 <!--
 **BTremb/BTremb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
